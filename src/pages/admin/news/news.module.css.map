@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAK;EACH,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;;AACxB,KAAK;EACH,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,GAAG,EAAE,MAAK",
+"sources": ["news.module.sass"],
+"names": [],
+"file": "news.module.css"
+}

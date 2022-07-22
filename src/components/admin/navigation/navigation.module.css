@@ -1,0 +1,13 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem; }
+
+.link {
+  text-decoration: none;
+  color: #000; }
+  .link:hover {
+    color: goldenrod; }
+
+/*# sourceMappingURL=navigation.module.css.map */

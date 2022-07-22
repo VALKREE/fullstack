@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@300;400;500;700;800;900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  font-family: "Alumni Sans", sans-serif;
+  font-size: 1.5rem; }
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%; }
+
+.wrapper {
+  display: flex;
+  height: 100%;
+  flex-direction: column; }
+
+.main {
+  flex-grow: 1;
+  margin: 0.3rem 0;
+  background: rgba(255, 255, 255, 0.3);
+  padding-left: calc(50% - 570px);
+  padding-right: calc(50% - 570px); }
+
+/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,10 @@
+.goods {
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem; }
+
+/*# sourceMappingURL=shop.module.css.map */

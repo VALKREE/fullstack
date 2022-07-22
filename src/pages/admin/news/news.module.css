@@ -1,0 +1,12 @@
+.news {
+  display: flex;
+  flex-direction: column; }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem; }
+
+/*# sourceMappingURL=news.module.css.map */
